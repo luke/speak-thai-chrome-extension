@@ -3,7 +3,7 @@
   "name": "Speak Thai",
   "description": "Reads out selected thai text",
   "version": "0.1",
-  "permissions": ["contextMenus"],
+  "permissions": ["contextMenus","http://translate.google.co.th/"],
   "background": {
     "scripts": ["speak-thai.js"]
   },
