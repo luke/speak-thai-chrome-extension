@@ -2,8 +2,8 @@
 {
   "name": "Speak Thai",
   "description": "Reads out selected thai text",
-  "version": "0.1",
-  "permissions": ["contextMenus","http://translate.google.co.th/"],
+  "version": "0.2",
+  "permissions": ["contextMenus","https://translate.google.co.th/"],
   "background": {
     "scripts": ["speak-thai.js"]
   },
